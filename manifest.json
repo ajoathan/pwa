@@ -1,0 +1,32 @@
+{
+	"name": "Hello World PWA",
+	"short_name": "Hi",
+
+	"start_url": "/pwa/index.html",
+	"scope": "/pwa/",
+
+	"lang": "pt_BR",
+	"display": "standalone",
+
+	"background_color": "#dddddd",
+	"theme_color": "#dddddd",
+
+	"icons": [{
+		"src": "/pwa/icons/64.png",
+		"sizes": "64x64",
+		"type": "image/png"
+	}, {
+		"src": "/pwa/icons/128.png",
+		"sizes": "128x128",
+		"type": "image/png"
+	}, {
+		"src": "/pwa/icons/256.png",
+		"sizes": "256x256",
+		"type": "image/png"
+	}, {
+		"src": "/pwa/icons/512.png",
+		"sizes": "512x512",
+		"type": "image/png"
+	}]
+}
+
